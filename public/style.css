@@ -1,0 +1,26 @@
+/* styles.css */
+
+.available-rooms {
+    margin-top: 20px;
+  }
+  
+  .available-rooms table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .available-rooms th,
+  .available-rooms td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .available-rooms th {
+    background-color: #f2f2f2;
+  }
+  
+  .available-rooms tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
